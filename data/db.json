@@ -1,0 +1,20 @@
+{
+    "dersler":[
+        {"name":"Atatürk İlke ve İnkılapları","kısaisim":"ATA101","ogretmen":"Blabla","id":1},
+        {"name":"Turkce","kısaisim":"TR101","ogretmen":"Blalba","id":2},
+        {"name":"Matematik","kısaisim":"MAT101","ogretmen":"Mert Çağlar","id":3},
+        {"name":"MCS101","kısaisim":"MAT201","ogretmen":"Remzi Tunç","id":4},
+        {"name":"MCS101","kısaisim":"MAT201","ogretmen":"Remzi Tunç","id":5},
+        {"name":"MCS101","kısaisim":"MAT201","ogretmen":"Remzi Tunç","id":6},
+        {"name":"MCS101","kısaisim":"MAT201","ogretmen":"Remzi Tunç","id":7},
+        {"name":"MCS101","kısaisim":"MAT201","ogretmen":"Remzi Tunç","id":8},
+        {"name":"MCS101","kısaisim":"MAT201","ogretmen":"Remzi Tunç","id":9},
+        {"name":"MCS101","kısaisim":"MAT201","ogretmen":"Remzi Tunç","id":10},
+        {"name":"MCS101","kısaisim":"MAT201","ogretmen":"Remzi Tunç","id":11}
+    ],
+    "duyurular":[
+        {"title":"bumbe","gönderen":"Berkay Sezer","tarih":"03.03.2023","id":1},
+        {"title":"bumbe","gönderen":"Berkay Sezer","tarih":"03.03.2023","id":2},
+        {"title":"bumbe","gönderen":"Berkay Sezer","tarih":"03.03.2023","id":3}
+    ]
+}
