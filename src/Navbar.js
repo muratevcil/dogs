@@ -28,5 +28,5 @@ const Navbar = ({notifications}) => {
         </div>
      );
 }
- 
+//degisiklik
 export default Navbar;
