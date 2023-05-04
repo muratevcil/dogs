@@ -27,7 +27,7 @@ const Navbar = ({notifications}) => {
             </div>
         </div>
      );
-//degisiklik
+
 }
 
 export default Navbar;
