@@ -12,5 +12,5 @@ const Home = () => {
         </div>
      );
 }
- 
+//degisikilik
 export default Home;
